@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
 
 char choice;
 double temperature;
